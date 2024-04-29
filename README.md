@@ -45,6 +45,3 @@ Practice is key to mastering Python. Start with simple projects to apply what yo
 
 If you find any issues with this README or have suggestions for improvement, feel free to contribute by submitting a pull request.
 
-## License
-
-This README is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
