@@ -1,4 +1,4 @@
-name = "hello, i am muhammad arham"
+# name = "hello, i am muhammad arham"
 
 # 1->  Split Method
 # Split the Strings into the Sub Strings    
@@ -63,3 +63,14 @@ name = "hello, i am muhammad arham"
 # Returns the index in the name
 # x = name.title()
 # print(x.index("I"))
+
+
+# Print the Strings
+
+# a1 ="Arham " \
+#     "Nadeem"
+# a2  = 'Ansari'
+# a3 = '''is my full name'''
+
+# print(a1 , a2 , a3)
+
