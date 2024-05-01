@@ -31,6 +31,28 @@ Before diving into coding, familiarize yourself with some fundamental concepts o
 - **Modules and Packages**: Understand how to use modules and packages to organize and reuse code across multiple files and projects.
 - **Exception Handling**: Learn how to handle errors and exceptions gracefully in your Python programs.
 
+## Table of Content
+- [Comments](#comments)
+- [Variables](#variables)
+- [Typecasting](#typecasting)
+- [Operators in Python](#operators-in-python)
+- [Modules and Pip](#modules-and-pip)
+- [Download Handwritten Notes](#download-handwritten-notes)
+- [String and String Methods](#string-and-string-methods)
+- [User Input in Python](#user-input-in-python)
+- [List & List Methods](#list--list-methods)
+- [Tuple and Tuple Methods](#tuple-and-tuple-methods)
+- [Set and Set Methods](#set-and-set-methods)
+- [Dictionary & Dictionary Methods](#dictionary--dictionary-methods)
+- [if-else Statements](#if-else-statements)
+- [Match case](#match-case)
+- [for Loop](#for-loop)
+- [while Loop](#while-loop)
+- [Functions](#functions)
+- [Exception Handling](#exception-handling)
+- [File I/O](#file-io)
+- [OOPs](#oops)
+
 ## Sample Projects
 
 Practice is key to mastering Python. Start with simple projects to apply what you've learned. Here are a few ideas:
