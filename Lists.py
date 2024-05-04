@@ -63,3 +63,38 @@ list1 = []
 # The append() method appends an element to the end of the list.
 # list1.append(18)
 # print(list1)
+
+
+
+arr = [ 1 , 4 , 8,5 , 3 ,3]
+
+# for i in range(3):
+#     arr.append(i)
+# arr.sort()
+# arr_set = set(arr)
+# print(arr_set)
+
+# arr.clear()
+
+# x =arr.count(4)
+
+# arr2 = [ 0 , 2 , 6]
+
+# arr.extend(arr2)
+# sorting = arr.sort()
+# print(arr)
+
+
+# x = arr.index(5)
+# print(x)
+
+# x = arr.sort()
+# arr.insert( 0 , 100)
+# print(arr)
+
+# arr.pop()
+# print(arr)
+
+
+# arr.remove(8)
+# print(arr)
