@@ -66,7 +66,7 @@ list1 = []
 
 
 
-arr = [ 1 , 4 , 8,5 , 3 ,3]
+# arr = [ 1 , 4 , 8,5 , 3 ,3]
 
 # for i in range(3):
 #     arr.append(i)
@@ -98,3 +98,33 @@ arr = [ 1 , 4 , 8,5 , 3 ,3]
 
 # arr.remove(8)
 # print(arr)
+
+
+
+
+array = [ 1 ,3 ,4 , 5, 2 , 2]
+
+# array.sort()
+
+# array.reverse()
+
+# cop = array.copy()
+# cop.append(0)
+# cop.sort()
+
+# x = set(array)
+# y = list(x)
+
+
+# print(y)
+
+
+# array.clear()
+
+x = array.count(2)
+
+print(x)
+
+# print(y)
+# print(cop)
+

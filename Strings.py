@@ -77,4 +77,15 @@
 
 
 
+s = "Let's start the race"
+
+x1 = s.partition('start')
+
+# x2 = ''.join(x1)
+
+print(x1)
+
+
+
+
 
