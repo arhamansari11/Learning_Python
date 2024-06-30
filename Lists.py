@@ -18,7 +18,7 @@ list1 = []
 # print(list1)
 
 # 4-> Pop
-# Remove the Selected Element . If not selected delete the last list
+# Insert the Selected Element  . If not selected delete the last list
 # list1.pop(3)
 # print(list1)
 
